@@ -1,0 +1,2 @@
+auditLogsScanner logScanner = new auditLogsScanner();
+logScanner.parseAuditLogs();
